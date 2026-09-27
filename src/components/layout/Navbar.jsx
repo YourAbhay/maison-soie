@@ -40,7 +40,7 @@ export default function Navbar() {
           {/* CTA */}
 
           <button
-            className="bg-yellow-500 px-6 py-3 rounded-full"
+           className="bg-yellow-500 px-4 py-2 text-sm sm:px-6 sm:py-3 sm:text-base rounded-full"
             onClick={() =>
               document
                 .getElementById("contact")
