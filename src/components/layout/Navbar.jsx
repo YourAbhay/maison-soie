@@ -20,7 +20,7 @@ export default function Navbar() {
             href="#home"
             className="font-heading text-3xl font-semibold tracking-wide text-[#C8A96A]"
           >
-            Maison Soie
+            Maison Soie salon
           </a>
 
           {/* Navigation */}
